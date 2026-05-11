@@ -124,4 +124,4 @@ edmonton-property-analysis/
  
 ---
  
-**Harsh Patel** - Data and Reporting Analyst | [LinkedIn](https://www.linkedin.com/in/harsh-patel-a1563a237/) | [Portfolio](https://harshp10101.github.io/)V
+**Harsh Patel** - Data and Reporting Analyst | [LinkedIn](https://www.linkedin.com/in/harsh-patel-a1563a237/) | [Portfolio](https://harshp10101.github.io/)
